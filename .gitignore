@@ -1,0 +1,12 @@
+**/graph_analysis
+**/mv_run
+**/categorization
+!**/categorization/modified_ligands.json
+!**/categorization/filtered_modified_ligands.json
+**/validation
+!**/validation/merged_rscc_rmsd.csv
+**/filtered_binding_sites
+**/raw_binding_sites
+**/clusters
+**/pq_run
+**/input_representatives
