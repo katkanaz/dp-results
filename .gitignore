@@ -1,5 +1,6 @@
 **/graph_analysis
 **/mv_run
+!**/mv_run/mv_config.json
 **/categorization
 !**/categorization/modified_ligands.json
 !**/categorization/filtered_modified_ligands.json

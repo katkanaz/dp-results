@@ -1,0 +1,11 @@
+{
+    "ValidationType": "Sugars",
+    "InputFolder": "../data/2025-06-13T12-30-00/modified_mmcif_files",
+    "ModelsSource": "../data/2025-06-13T12-30-00/components/components_sugars_only.cif",
+    "IsModelsSourceComponentDictionary": true,
+    "IgnoreObsoleteComponentDictionaryEntries": false,
+    "SummaryOnly": false,
+    "DatabaseModeMinModelAtomCount": 0,
+    "DatabaseModeIgnoreNames": [],
+    "MaxDegreeOfParallelism": 8
+}
